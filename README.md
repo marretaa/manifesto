@@ -1,5 +1,12 @@
-# Manifesto Marreta.
+# manifesto
+Manifesto Marreta
 
-Nós desenvolvedores, administradores de sistemas e banco de dados e todos os profissionais da área de computação ao longo dos últimos anos fomos sistematicamente usados e explorados pelo sistema que se auto denomina ágil. Esse manifesto tem como objetivo levar a todos os profissionais da área e profissionais de outras áreas um conjunto de princípios para nortear a luta por uma jornada de trabalho mais saudável fisicamente e principalmente mentalmente. Como o nosso princípio é o compartilhamento esse manifesto será construído de forma colaborativa e livre.
 
-### 1 - Gestores/Gerentes e afins normalmente não sabem nada, desconfie deles.
+
+0. O Deus SCRUM não existe. Largue mão de bobagem e corra atrás do que é melhor para a equipe.
+  Existem muitas metodologias de desenvolvimento que são mais interessantes do que o SCRUM. O SCRUM crucialmente irá falhar quando a comunicação não for suficiente, quando não houver motivação, quando o PO não encontra o cliente, quando o time não é o seu próprio gerente, quando houver frescuras para tocar o projeto.
+  
+1. A gerência em uma abordagem sistemática não serve para nada.
+  O manifesto Ágil defende que todos podem escolher qualquer tarefa do backlog e no geral poucas pessoas dominam uma quantidade interessante de tecnologias para se colocar à mesa. É extremamente difícil motivar outras pessoas a estudar e aprender determinadas tecnologias principalmente quando são tecnologias ultrapassadas. E quando o backlog é muito grande, todos começam a trabalhar para resolver as urgências. As metodologias em geral tendem a dar uma abordagem muito sistemática aos projetos. Isso tem efeitos colaterais muito ruins quando essa visão é passada ao gerente de projeto, e aos gestores em geral. Não funciona no mundo humano real.
+    
+   
