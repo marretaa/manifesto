@@ -7,7 +7,7 @@ O Manifesto marreta foi desenvolvido por pessoas que não veem sentido em metodo
 
 * **Desenvolvedor engomado**: Este já foi um cabaço. A diferença é que ele agora sabe que unicórnios não existem! Agora ele tenta adaptar o que não dá certo ao fluxo de trabalho que lhe foi imposto. Ou seja, é o iludido que acredita fielmente nas instituições, e em tudo que está em torno do mundo business.
 
-* **Desenvolvedor marreta (ou marreteiro)**: É aquele que não vê sentido nenhum nessa porra toda!
+* **Desenvolvedor marreta (ou marreteiro)**: É aquele que não vê sentido nenhum nessa porra toda! O marreteiro sempre irá desconstruir tudo aquilo que a indústria fez até hoje.
 
 ---
 
