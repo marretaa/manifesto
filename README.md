@@ -6,11 +6,13 @@ O Manifesto marreta foi desenvolvido por pessoas que não veem sentido em metodo
 
 * **Desenvolvedor engomado**: Este já foi um cabaço. A diferença é que ele agora sabe que unicórnios não existem! Agora ele tenta adaptar o que não dá certo ao fluxo de trabalho que lhe foi imposto. Ou seja, é o iludido que acredita fielmente nas instituições, e em tudo que está em torno do mundo business. O desenvolvedor engomado sonha em ser o chefe e se comporta como tal , mas está longe de tornar-se chefe.
 
-* **Desenvolvedor marreta (ou marreteiro)**: É aquele que não vê sentido nenhum nessa porra! O marreteiro sempre irá desconstruir tudo aquilo que a indústria fez até hoje. O marreteiro não quer saber de firula, não quer saber de reunião diária (pra quê?), não quer saber de métricas que mensuram o seu cargo. É papo reto! Se gostou tamo junto, se não, joga dentro do buraco:
+* **Desenvolvedor marreta (ou marreteiro)**: É aquele que não vê sentido nenhum nessa porra! O marreteiro sempre irá desconstruir tudo aquilo que a indústria fez até hoje. O marreteiro não quer saber de firula, não quer saber de métricas que mensuram o seu cargo. É papo reto! Se gostou tamo junto, se não, joga dentro do buraco:
 
 ![https://raw.githubusercontent.com/lobocode/manifesto/master/images/marreta.png](https://raw.githubusercontent.com/lobocode/manifesto/master/images/marreta.png)
 
-A relação de trabalho com o marreteiro é a mais simples possível! Nunca tente passar a perna em um desenvolvedor marreteiro! O marreteiro não cai em conversa fiada de desenvolvedor engomado. E tampouco é vislumbrado como um desenvolvedor cabaço. O marreteiro sabe do seu lugar e do seu valor! É um questionador nato!
+A relação de trabalho com o marreteiro é a mais simples possível! Nunca tente passar a perna em um desenvolvedor marreteiro! O marreteiro não cai em conversa fiada de desenvolvedor engomado. E tampouco é vislumbrado como um desenvolvedor cabaço. O marreteiro sabe do seu lugar e do seu valor! É um questionador nato! Mas não pense que o desenvolvedor marreteiro não tem sua metodologia de desenvolvimento. A escolha da metodologia é livre e dentro deste cenário, kanban é muito bem vindo. No entanto, kanban raiz, sem as firulas impostas a ele:
+
+![https://raw.githubusercontent.com/lobocode/manifesto/master/images/kanban.png](https://raw.githubusercontent.com/lobocode/manifesto/master/images/kanban.png)
 
 ---
 
@@ -26,4 +28,5 @@ O manifesto Ágil defende que todos podem escolher qualquer tarefa do backlog e 
 
 No manifesto Ágil a principal meta é satisfazer clientes por meio do levantamento de requisitos que estejam em constante mudança. Essa meta pode ser atingida realizando entregas de softwares funcionais frequentemente. No entanto, entregar software funcional, na maioria das vezes geram problemas crônicos.
  
- 
+#### 2. XGH com todo respeito.
+Nós do manifesto marreta reconhecemos que o **[Extreme GO HORSE](http://sou.gohorseprocess.com.br/extreme-go-horse-xgh/)** foi mal compreendido. Quem nasceu no XGH, automaticamente nasceu marreteiro!
