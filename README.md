@@ -2,11 +2,15 @@
 
 O Manifesto marreta foi desenvolvido por pessoas que não veem sentido em metodologias sistemáticas e ritos que não funcionam no mundo real. Nós definimos três tipos de perfís que resumem bem o comportamento de profissionais que atuam no mundo das computarias. São eles:
 
-* **Desenvolvedor cabaço**: É aquele que acaba de entrar no universo das computarias. O desenvolvedor cabaço acredita em tudo o que é dito nas palestras e eventos de tecnologia. É aquele que fica animado em comprar e montar sua barraquinha da campus party para socializar e adquirir experiências acreditando fielmente em tudo o que absorve.
+* **Desenvolvedor cabaço**: É aquele que acaba de entrar no universo das computarias. O desenvolvedor cabaço acredita em tudo o que é dito nas palestras e eventos de tecnologia. É aquele que fica animado em comprar e montar sua barraquinha da campus party para socializar, fazer network e adquirir experiências acreditando fielmente em tudo o que absorve. O Desenvolvedor cabaço tem um péssimo hábito de não dar a devida importância aos conselhos de pessoas próximas pois, ele credita fielmente no que vem de fora.
 
-* **Desenvolvedor engomado**: Este já foi um cabaço. A diferença é que ele agora sabe que unicórnios não existem! Agora ele tenta adaptar o que não dá certo ao fluxo de trabalho que lhe foi imposto. Ou seja, é o iludido que acredita fielmente nas instituições, e em tudo que está em torno do mundo business.
+* **Desenvolvedor engomado**: Este já foi um cabaço. A diferença é que ele agora sabe que unicórnios não existem! Agora ele tenta adaptar o que não dá certo ao fluxo de trabalho que lhe foi imposto. Ou seja, é o iludido que acredita fielmente nas instituições, e em tudo que está em torno do mundo business. O desenvolvedor engomado sonha em ser o chefe e se comporta como tal , mas está longe de tornar-se chefe.
 
-* **Desenvolvedor marreta (ou marreteiro)**: É aquele que não vê sentido nenhum nessa porra toda! O marreteiro sempre irá desconstruir tudo aquilo que a indústria fez até hoje.
+* **Desenvolvedor marreta (ou marreteiro)**: É aquele que não vê sentido nenhum nessa porra! O marreteiro sempre irá desconstruir tudo aquilo que a indústria fez até hoje. O marreteiro não quer saber de firula, não quer saber de reunião diária (pra quê?), não quer saber de métricas que mensuram o seu cargo. É papo reto! Se gostou tamo junto, se não, joga dentro do buraco:
+
+![https://nerdysermons.files.wordpress.com/2015/04/300_kick211.jpg](https://nerdysermons.files.wordpress.com/2015/04/300_kick211.jpg)
+
+A relação de trabalho com o marreteiro é a mais simples possível! Nunca tente fazer um desenvolvedor marreteiro de bobo! O marreteiro sabe que é proletário, sabe dos seus direitos, não cai em conversa fiada de desenvolvedor engomado. E tampouco é vislumbrado como um desenvolvedor cabaço.
 
 ---
 
