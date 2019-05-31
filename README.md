@@ -9,6 +9,11 @@ O Manifesto marreta foi desenvolvido por pessoas que não veem sentido em metodo
 
 * **Desenvolvedor marreta (ou marreteiro)**: É aquele que não vê sentido nenhum nessa porra toda!
 
+---
+
+O manifesto marreta se sustenta em base de algums pilares.
+
+### Pilares do manifesto marreta
 
 #### 0. O Deus SCRUM não existe. 
 O Dev cabaço irá sempre cultuar o Deus Scrum em todos os seus ritos. Por sua vez, o Dev engomado irá tentar adaptar o Deus Scrum ao fluxo de trabalho da instituição que trabalha. É preciso no entanto, compreender que o Deus Scrum não existe! Logo, todos que cultuam o Deus Scrum estão errados! O SCRUM crucialmente irá falhar quando a comunicação não for suficiente, quando não houver motivação, quando o PO não encontra o cliente, quando o time não é o seu próprio gerente, quando reunião vira sinônimo de rito. O Dev marreta sempre irá questionar a necessidades de ritos e metologias sistemáticas impostas ao fluxo de trabalho.
