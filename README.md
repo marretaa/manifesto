@@ -8,9 +8,9 @@ O Manifesto marreta foi desenvolvido por pessoas que não veem sentido em metodo
 
 * **Desenvolvedor marreta (ou marreteiro)**: É aquele que não vê sentido nenhum nessa porra! O marreteiro sempre irá desconstruir tudo aquilo que a indústria fez até hoje. O marreteiro não quer saber de firula, não quer saber de reunião diária (pra quê?), não quer saber de métricas que mensuram o seu cargo. É papo reto! Se gostou tamo junto, se não, joga dentro do buraco:
 
-![https://nerdysermons.files.wordpress.com/2015/04/300_kick211.jpg](https://nerdysermons.files.wordpress.com/2015/04/300_kick211.jpg)
+![https://raw.githubusercontent.com/lobocode/manifesto/master/images/marreta.png](https://raw.githubusercontent.com/lobocode/manifesto/master/images/marreta.png)
 
-A relação de trabalho com o marreteiro é a mais simples possível! Nunca tente fazer um desenvolvedor marreteiro de bobo! O marreteiro sabe que é proletário, sabe dos seus direitos, não cai em conversa fiada de desenvolvedor engomado. E tampouco é vislumbrado como um desenvolvedor cabaço.
+A relação de trabalho com o marreteiro é a mais simples possível! Nunca tente passar a perna em um desenvolvedor marreteiro! O marreteiro não cai em conversa fiada de desenvolvedor engomado. E tampouco é vislumbrado como um desenvolvedor cabaço. O marreteiro sabe do seu lugar e do seu valor! É um questionador nato!
 
 ---
 
