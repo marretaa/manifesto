@@ -1,5 +1,4 @@
-# manifesto
-Manifesto Marreta
+# Manifesto Marreta
 
 O Manifesto marreta foi desenvolvido por pessoas que não veem sentido em metodologias sistemáticas e ritos que não funcionam no mundo real. Nós definimos três tipos de perfís que resumem bem o comportamento de profissionais que atuam no mundo das computarias. São eles:
 
