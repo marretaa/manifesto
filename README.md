@@ -22,7 +22,10 @@ O engomado é inclinado a acreditar em meritocracia. Ele acredita que seu sucess
 
 * **Desenvolvedor marreta (ou marreteiro)**: É aquele que não vê sentido nenhum nessa porra! O marreteiro sempre irá desconstruir tudo aquilo que a indústria fez até hoje. O marreteiro não quer saber de firula, não quer saber de métricas que mensuram o seu cargo. É papo reto! Se gostou tamo junto, se não, joga dentro do buraco:
 
-![https://raw.githubusercontent.com/lobocode/manifesto/master/images/marreta.png](https://raw.githubusercontent.com/lobocode/manifesto/master/images/marreta.png)
+<p align="center">
+  <img width="800" height="500" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/marreta.png">
+</p>
+
 
 A relação de trabalho com o marreteiro é a mais simples possível! Nunca tente passar a perna em um desenvolvedor marreteiro! O marreteiro não cai em conversa fiada de desenvolvedor engomado. E tampouco é vislumbrado como um desenvolvedor cabaço. O marreteiro sabe do seu lugar no mundo! É um questionador nato! Mas não pense que o desenvolvedor marreteiro não tem sua metodologia de desenvolvimento. Um bom marreteiro nasceu com o Extreme GO Horse no sangue, é anárquico por natureza e por isso escolhe suas próprias metodologias e métricas de trabalho.
 
