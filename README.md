@@ -6,7 +6,7 @@ O Manifesto marreta foi desenvolvido por pessoas que não veem sentido em metodo
 
 Além disso o desenvolvedor cabaço adora se apegar a modinhas. Não importa o impacto, não importa se um determinado framework tem a arquitetura cagada. Se está na boca do povo e principalmente sendo fomentado pelos mais diversos palestrantes, logo, automaticamente se torna uma verdade absoluta e tem que ser usado e fomentado. O desenvolvedor cabaço é o rei do Git. Afinal, ele sempre estará no ranking 1 no **[Git Blame]()**.
 
-* **Desenvolvedor engomado**: Este já foi um cabaço. A diferença é que ele agora sabe que unicórnios não existem! Agora ele tenta adaptar o que não dá certo ao fluxo de trabalho que lhe foi imposto. O desenvolvedor engomado é o típico cidadão criado na base do leite com pêra de ovomaltine. Trata-se do iludido que acredita fielmente nas instituições, e em tudo que está em torno do mundo business. O engomado sonha em ser o chefe e se comporta como tal , mas está longe de tornar-se chefe.
+* **Desenvolvedor engomado**: Este já foi um cabaço. A diferença é que ele agora sabe que unicórnios não existem! Agora ele tenta adaptar o que não dá certo ao fluxo de trabalho que lhe foi imposto. O desenvolvedor engomado é o típico cidadão criado na base do leite com pêra e ovomaltine. Trata-se do iludido que acredita fielmente nas instituições, e em tudo que está em torno do mundo business. O engomado sonha em ser o chefe e se comporta como tal , mas está longe de tornar-se chefe.
 
 O engomado é inclinado a acreditar em meritocracia. Ele acredita que seu sucesso é resultado exclusivo de talento e perseverança e isso o torna claramente um iludido incapaz admitir que está contando com uma bela “ajudinha” do acaso. Esta é a fonte motivacional de um engomado. Ele se sustenta em mitos para que o seu mundo faça algum sentido.
 
@@ -17,7 +17,11 @@ O engomado é inclinado a acreditar em meritocracia. Ele acredita que seu sucess
 
 A relação de trabalho com o marreteiro é a mais simples possível! Nunca tente passar a perna em um desenvolvedor marreteiro! O marreteiro não cai em conversa fiada de desenvolvedor engomado. E tampouco é vislumbrado como um desenvolvedor cabaço. O marreteiro sabe do seu lugar no mundo! É um questionador nato! Mas não pense que o desenvolvedor marreteiro não tem sua metodologia de desenvolvimento. Um bom marreteiro nasceu com o Extreme GO Horse no sangue, é anárquico por natureza e por isso escolhe suas próprias metodologias e métricas de trabalho.
 
-![https://raw.githubusercontent.com/lobocode/manifesto/master/images/kanban.png](https://raw.githubusercontent.com/lobocode/manifesto/master/images/kanban.png)
+
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/kanban.png">
+</p>
+
 
 ---
 
@@ -28,7 +32,7 @@ A relação de trabalho com o marreteiro é a mais simples possível! Nunca tent
 O Dev cabaço irá sempre cultuar o Deus Scrum em todos os seus ritos. Por sua vez, o Dev engomado irá tentar adaptar o Deus Scrum ao fluxo de trabalho da instituição que trabalha acreditando que se o Scrum está no mercado, é o que tem que ser seguido. É preciso no entanto, compreender que **o Deus Scrum não existe!** Logo, todos que cultuam o Deus Scrum estão errados! O SCRUM crucialmente irá falhar quando a comunicação não for suficiente, quando não houver motivação, quando o PO não encontra o cliente, quando o time não é o seu próprio gerente, quando reunião vira sinônimo de rito. O Dev marreta sempre irá questionar a necessidades de ritos e metologias sistemáticas impostas ao fluxo de trabalho.
   
 #### 1. A gerência em uma abordagem sistemática não faz sentido.
-O manifesto Ágil defende que todos podem escolher qualquer tarefa do backlog e no geral poucas pessoas dominam uma quantidade interessante de tecnologias para se colocar à mesa. É extremamente difícil motivar outras pessoas a estudar e aprender determinadas tecnologias principalmente quando são tecnologias ultrapassadas. Nesse cenário, quando o backlog é muito grande, todos começam a trabalhar para resolver as urgências que parecem não ter fim. As metodologias em geral tendem a dar uma abordagem muito sistemática aos projetos e isso tem efeitos colaterais muito ruins quando essa visão é passada principalmente aos gestores do projeto. I
+O manifesto Ágil defende que todos podem escolher qualquer tarefa do backlog e no geral poucas pessoas dominam uma quantidade interessante de tecnologias para se colocar à mesa. É extremamente difícil motivar outras pessoas a estudar e aprender determinadas tecnologias principalmente quando são tecnologias ultrapassadas. Nesse cenário, quando o backlog é muito grande, todos começam a trabalhar para resolver as urgências que parecem não ter fim. As metodologias em geral tendem a dar uma abordagem muito sistemática aos projetos e isso tem efeitos colaterais muito ruins quando essa visão é passada principalmente aos gestores do projeto.
 
 No manifesto Ágil a principal meta é satisfazer clientes por meio do levantamento de requisitos que estejam em constante mudança. Essa meta pode ser atingida realizando entregas de softwares funcionais frequentemente. No entanto, entregar software funcional, na maioria das vezes geram problemas crônicos.
  
