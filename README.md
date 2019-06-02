@@ -19,7 +19,7 @@ A relação de trabalho com o marreteiro é a mais simples possível! Nunca tent
 
 
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/kanban.png">
+  <img width="400" height="300" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/kanban.png">
 </p>
 
 
@@ -28,13 +28,15 @@ A relação de trabalho com o marreteiro é a mais simples possível! Nunca tent
 
 ## Pilares do manifesto marreta
 
-#### 0. O Deus SCRUM não existe. 
-O Dev cabaço irá sempre cultuar o Deus Scrum em todos os seus ritos. Por sua vez, o Dev engomado irá tentar adaptar o Deus Scrum ao fluxo de trabalho da instituição que trabalha acreditando que se o Scrum está no mercado, é o que tem que ser seguido. É preciso no entanto, compreender que **o Deus Scrum não existe!** Logo, todos que cultuam o Deus Scrum estão errados! O SCRUM crucialmente irá falhar quando a comunicação não for suficiente, quando não houver motivação, quando o PO não encontra o cliente, quando o time não é o seu próprio gerente, quando reunião vira sinônimo de rito. O Dev marreta sempre irá questionar a necessidades de ritos e metologias sistemáticas impostas ao fluxo de trabalho.
+### 0. O Deus SCRUM não existe. 
+A prova cabal de que **o Deus Scrum não existe** é quando você precisa de "tempo ocioso" para aprimorar alguma técnica, código, fazer code review, e\ou refactoring. Se o SCRUM for consultado, logo, veremos que nada disso será possível o que logicamente irá nos prejudicar. Logo, todos que cultuam o Deus Scrum estão errados! O SCRUM crucialmente irá falhar em outros momentos como quando a comunicação não for suficiente, quando o PO não encontra o cliente, quando o time não é o seu próprio gerente, quando reunião vira sinônimo de rito. 
+
+O marreteiro sempre irá questionar a necessidades de ritos e metologias sistemáticas impostas ao fluxo de trabalho. O que afinal faz sentido? Basta ser funcional ou, acima de tudo precisa atender aos anseios de quem produz?
   
-#### 1. A gerência em uma abordagem sistemática não faz sentido.
-O manifesto Ágil defende que todos podem escolher qualquer tarefa do backlog e no geral poucas pessoas dominam uma quantidade interessante de tecnologias para se colocar à mesa. É extremamente difícil motivar outras pessoas a estudar e aprender determinadas tecnologias principalmente quando são tecnologias ultrapassadas. Nesse cenário, quando o backlog é muito grande, todos começam a trabalhar para resolver as urgências que parecem não ter fim. As metodologias em geral tendem a dar uma abordagem muito sistemática aos projetos e isso tem efeitos colaterais muito ruins quando essa visão é passada principalmente aos gestores do projeto.
+### 1. A gerência em uma abordagem sistemática não faz sentido.
+O manifesto Ágil defende que todos podem escolher qualquer tarefa do backlog e isto entra em contradição uma vez que poucas pessoas dominam uma quantidade interessante de tecnologias para se colocar à mesa. É extremamente difícil motivar outras pessoas a estudar e aprender determinadas tecnologias principalmente quando são tecnologias ultrapassadas. Nesse cenário, quando o backlog é muito grande, todos começam a trabalhar para resolver as urgências que parecem não ter fim. As metodologias em geral tendem a dar uma abordagem muito sistemática aos projetos e isso tem efeitos colaterais devastadores principalmente quando essa visão é passada aos gestores do projeto.
 
 No manifesto Ágil a principal meta é satisfazer clientes por meio do levantamento de requisitos que estejam em constante mudança. Essa meta pode ser atingida realizando entregas de softwares funcionais frequentemente. No entanto, entregar software funcional, na maioria das vezes geram problemas crônicos.
  
-#### 2. XGH com todo respeito.
+### 2. XGH com todo respeito.
 Nós do manifesto marreta reconhecemos que o **[Extreme GO HORSE](http://sou.gohorseprocess.com.br/extreme-go-horse-xgh/)** foi mal compreendido. Quem nasceu no XGH, automaticamente nasceu marreteiro!
