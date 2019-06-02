@@ -7,13 +7,17 @@ O Manifesto marreta foi desenvolvido por pessoas que não veem sentido em metodo
 Além disso o desenvolvedor cabaço adora se apegar a modinhas. Não importa o impacto, não importa se um determinado framework tem a arquitetura cagada. Se está na boca do povo e principalmente sendo fomentado pelos mais diversos palestrantes, logo, automaticamente se torna uma verdade absoluta e tem que ser usado e fomentado. O desenvolvedor cabaço é o rei do Git. Afinal, ele sempre estará no ranking 1 no **[Git Blame]()**.
 
 <p align="center">
-  <img width="400" height="300" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/gitblame.jpg">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/gitblame.jpg">
 </p>
 
 
 * **Desenvolvedor engomado**: Este já foi um cabaço. A diferença é que ele agora sabe que unicórnios não existem! Agora ele tenta adaptar o que não dá certo ao fluxo de trabalho que lhe foi imposto. O desenvolvedor engomado é o típico cidadão criado na base do leite com pêra e ovomaltine. Trata-se do iludido que acredita fielmente nas instituições, e em tudo que está em torno do mundo business. O engomado sonha em ser o chefe e se comporta como tal , mas está longe de tornar-se chefe.
 
 O engomado é inclinado a acreditar em meritocracia. Ele acredita que seu sucesso é resultado exclusivo de talento e perseverança e isso o torna claramente um iludido incapaz admitir que está contando com uma bela “ajudinha” do acaso. Esta é a fonte motivacional de um engomado. Ele se sustenta em mitos para que o seu mundo faça algum sentido.
+
+<p align="center">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/meritocracia.jpg">
+</p>
 
 
 * **Desenvolvedor marreta (ou marreteiro)**: É aquele que não vê sentido nenhum nessa porra! O marreteiro sempre irá desconstruir tudo aquilo que a indústria fez até hoje. O marreteiro não quer saber de firula, não quer saber de métricas que mensuram o seu cargo. É papo reto! Se gostou tamo junto, se não, joga dentro do buraco:
