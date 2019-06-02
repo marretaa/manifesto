@@ -16,7 +16,7 @@ Além disso o desenvolvedor cabaço adora se apegar a modinhas. Não importa o i
 O engomado é inclinado a acreditar em meritocracia. Ele acredita que seu sucesso é resultado exclusivo de talento e perseverança e isso o torna claramente um iludido incapaz admitir que está contando com uma bela “ajudinha” do acaso. Esta é a fonte motivacional de um engomado. Ele se sustenta em mitos para que o seu mundo faça algum sentido.
 
 <p align="center">
-  <img width="400" height="400" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/meritocracia.jpg">
+  <img width="500" height="353" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/meritocracia.jpg">
 </p>
 
 
