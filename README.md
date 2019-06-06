@@ -36,13 +36,13 @@ No entanto, é importante frizar que o engomado é mais complexo do que parece. 
 * **Engomado mistico**: Este é o engomado mais dificil de entender. É o mais complexo de todos. Trata-se do engomado que carrega consigo todas as caracteríticas anteriores mas com uma pitada a mais de complexidade: ele sempre estará mudando de atribuição, cargo, e siglas. Este tipo de engomado hora é Product Owner, hora é Gerênte de projeto, hora é analista de sistemas, hora é CTO, PMO, COO, CFO, PMI, PMP, CEO, e no fim das contas, ninguém sabe realmente o que ele é, e qual sua real atribuição, cargo, qual papel ele realmente desempenha.
 
 <p align="center">
-  <img width="500" height="353" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/cenourinha.gif">
+  <img width="500" height="353" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/">
 </p>
 
 * **Desenvolvedor marreta (ou marreteiro)**: É aquele que não vê sentido nenhum nessa porra! O marreteiro sempre irá desconstruir tudo aquilo que a indústria fez até hoje. O marreteiro não quer saber de firula, não quer saber de métricas que mensuram o seu cargo. É papo reto! Se gostou tamo junto, se não, joga dentro do buraco:
 
 <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/">
+  <img width="800" height="500" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/marreta.png">
 </p>
 
 
