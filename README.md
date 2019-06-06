@@ -13,7 +13,7 @@ Além disso o desenvolvedor cabaço adora se apegar a modinhas. Não importa o i
 Além disso, o desenvolvedor cabaço adora participar de Hackaton e virar a noite trabalhando em troca de pizza e refrigerante. A proposta de um Hackaton na maior parte das vezes, é a de resolver um problema X de uma determinada instituição. Ou seja, um problema de custo elevado que acaba sendo resolvido a preço de junk food. 
 
 <p align="center">
-  <img width="400" height="400" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/inocente.jpg">
+  <img width="550" height="265" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/inocente.jpg">
 </p>
 
 ---
@@ -40,12 +40,6 @@ Isto é, o cenourinha adora mesclar palavras em inglês com português e usar te
 
 <p align="center">
   <img width="400" height="200" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/cenourinha.gif">
-</p>
-
-* **Engomado mistico**: O engomado místico é baseado na mística do X-men. Este é o engomado mais dificil de entender e identificar. É o mais complexo de todos! Trata-se do engomado que carrega consigo todas as caracteríticas anteriores mas com uma pitada a mais de ousadia. Ele sempre estará mudando de atribuição, cargo e siglas. Este tipo de engomado hora é PO, hora é GP, hora é analista de sistemas, hora é CTO, PMO, COO, CFO, PMI, PMP, CEO, e no fim das contas, ninguém sabe realmente o que ele é e qual sua real atribuição, cargo, qual papel ele realmente desempenha. O engomado místico também é conhecido como engomado charada.
-
-<p align="center">
-  <img width="250" height="250" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/mistico.jpg">
 </p>
 
 ---
