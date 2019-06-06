@@ -10,6 +10,7 @@ Além disso o desenvolvedor cabaço adora se apegar a modinhas. Não importa o i
   <img width="400" height="400" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/gitblame.jpg">
 </p>
 
+Além disso, o desenvolvedor cabaço adora participar de Hackaton sem saber ele que trata-se na maior parte das vezes de exploração do trabalho. A proposta de um Hackaton na maior parte das vezes, é a de resolver um problema X de uma determinada instituição. Em troca os cabaços recebem pizza e refrigerante. Ou seja, um problema de custo elevado que acaba sendo resolvido a preço de junk food. 
 
 * **Desenvolvedor engomado**: Este já foi um cabaço. A diferença é que ele agora sabe que unicórnios não existem! Agora ele tenta adaptar o que não dá certo ao fluxo de trabalho que lhe foi imposto. O desenvolvedor engomado é o típico cidadão criado na base do leite com pêra e ovomaltine. Trata-se do iludido que acredita fielmente nas instituições, e em tudo que está em torno do mundo business. O engomado sonha em ser o chefe e se comporta como tal , mas está longe de tornar-se chefe.
 
