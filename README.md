@@ -38,7 +38,7 @@ Isto é, o cenourinha adora mesclar palavras em inglês com português e usar te
 3. **Engomado mistico**: O engomado místico é baseado na mística do X-men. Este é o engomado mais dificil de entender e identificar. É o mais complexo de todos! Trata-se do engomado que carrega consigo todas as caracteríticas anteriores mas com uma pitada a mais de ousadia. Ele sempre estará mudando de atribuição, cargo e siglas. Este tipo de engomado hora é PO, hora é GP, hora é analista de sistemas, hora é CTO, PMO, COO, CFO, PMI, PMP, CEO, e no fim das contas, ninguém sabe realmente o que ele é e qual sua real atribuição, cargo, qual papel ele realmente desempenha. O engomado místico também é conhecido como engomado charada.
 
 <p align="center">
-  <img width="500" height="353" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/">
+  <img width="250" height="250" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/mistico.jpg">
 </p>
 
 ---
