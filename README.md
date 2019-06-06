@@ -24,13 +24,13 @@ No entanto, é importante frizar que o engomado é mais complexo do que parece. 
 * **Engomado capachão**: Este tipo de engomado é melhor descrito como aquele perfil que almeja subir de cargo e ser reconhecido através da total e irrestrita submissão ao seu chefe e\ou aquele que ele reconhece por ser autoridade. Este tipo de engomado costuma causar desconforto à toda a equipe. Isso ocorre porque este engomado atravessa qualquer estimativa, planejamento, prioridade, e definição feita em grupo. A ele só importa obedecer fielmente o chefe sem considerar o processo estabelecido pelas equipes. É o atravessador nato! Este engomado acredita que submeter-se fielmente ao chefe, irá beneficiar a ele a tal ponto que um dia será reconhecido pelo chefe, pois, não importa reconhecimento dos que estão a sua volta. 
 
 <p align="center">
-  <img width="500" height="353" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/bajulacao.gif">
+  <img width="500" height="200" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/bajulacao.gif">
 </p>
 
 * **Engomado cenourinha**: O engomado cenourinha é como um coelho atrás da cenoura basta colocar um alvo a sua frente que ele segue sem critério algum. O engomado cenourinha também pode ser comparado a uma cabaça: Faz barulho mas é oco por dentro. Isto é, o cenourinha adora mesclar palavras em inglês com português e usar palavras difíceis como forma de se mostrar. O problema é que na maior parte das vezes este tipo de engomado não faz a mínima ideia do que está falando. Seus argumentos costumam não haver consistência alguma. Basta um para questionar seus argumentos que este engomado começa ou a mudar de assunto, ou a responder que de nada sabe. Mas não pense que isto é uma demonstração de humildade. Não caros leitores, isto é a demonstração que o poço sempre pode ser mais fundo do que a gente imagina. 
 
 <p align="center">
-  <img width="500" height="353" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/cenourinha.gif">
+  <img width="500" height="300" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/cenourinha.gif">
 </p>
 
 * **Engomado mistico**: Este é o engomado mais dificil de entender. É o mais complexo de todos. Trata-se do engomado que carrega consigo todas as caracteríticas anteriores mas com uma pitada a mais de complexidade: ele sempre estará mudando de atribuição, cargo, e siglas. Este tipo de engomado hora é Product Owner, hora é Gerênte de projeto, hora é analista de sistemas, hora é CTO, PMO, COO, CFO, PMI, PMP, CEO, e no fim das contas, ninguém sabe realmente o que ele é, e qual sua real atribuição, cargo, qual papel ele realmente desempenha.
