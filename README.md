@@ -10,7 +10,13 @@ Além disso o desenvolvedor cabaço adora se apegar a modinhas. Não importa o i
   <img width="400" height="400" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/gitblame.jpg">
 </p>
 
-Além disso, o desenvolvedor cabaço adora participar de Hackaton sem saber ele que trata-se na maior parte das vezes de exploração do trabalho. A proposta de um Hackaton na maior parte das vezes, é a de resolver um problema X de uma determinada instituição. Em troca os cabaços recebem pizza e refrigerante. Ou seja, um problema de custo elevado que acaba sendo resolvido a preço de junk food. 
+Além disso, o desenvolvedor cabaço adora participar de Hackaton e virar a noite trabalhando em troca de pizza e refrigerante. A proposta de um Hackaton na maior parte das vezes, é a de resolver um problema X de uma determinada instituição. Ou seja, um problema de custo elevado que acaba sendo resolvido a preço de junk food. 
+
+<p align="center">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/inocente.jpg">
+</p>
+
+---
 
 * **Desenvolvedor engomado**: Este já foi um cabaço. A diferença é que ele agora sabe que unicórnios não existem! Agora ele tenta adaptar o que não dá certo ao fluxo de trabalho que lhe foi imposto. O desenvolvedor engomado é o típico cidadão criado na base do leite com pêra e ovomaltine. Trata-se do iludido que acredita fielmente nas instituições, e em tudo que está em torno do mundo business. O engomado sonha em ser o chefe e se comporta como tal , mas está longe de tornar-se chefe.
 
@@ -22,13 +28,13 @@ O engomado é inclinado a acreditar em meritocracia. Ele acredita que seu sucess
 
 No entanto, é importante frisar que o engomado é mais complexo do que parece. Basicamente temos alguns tipos de engomados:
 
-1. **Engomado capachão**: O capachão almeja subir de cargo e ser reconhecido através da total e irrestrita submissão ao seu chefe. Este tipo de engomado costuma causar desconforto à toda a equipe. Isso ocorre porque este engomado atravessa qualquer estimativa, planejamento, prioridade, e definição feita em grupo. A ele só importa obedecer fielmente o chefe sem considerar o processo estabelecido pelas equipes. É o atravessador nato! Este engomado acredita que submeter-se fielmente ao chefe, irá beneficiar a ele a tal ponto que um dia será reconhecido pelo chefe, pois, não importa reconhecimento dos que estão a sua volta. 
+* **Engomado capachão**: O capachão almeja subir de cargo e ser reconhecido através da total e irrestrita submissão ao seu chefe. Este tipo de engomado costuma causar desconforto à toda a equipe. Isso ocorre porque este engomado atravessa qualquer estimativa, planejamento, prioridade, e definição feita em grupo. A ele só importa obedecer fielmente o chefe sem considerar o processo estabelecido pelas equipes. É o atravessador nato! Este engomado acredita que submeter-se fielmente ao chefe, irá beneficiar a ele a tal ponto que um dia será reconhecido pelo chefe, pois, não importa reconhecimento dos que estão a sua volta. 
 
 <p align="center">
   <img width="500" height="200" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/bajulacao.gif">
 </p>
 
-2. **Engomado cenourinha**: O engomado cenourinha só precisa de um incentivo para ficar feliz e fazer o trabalho. O chefe monta nas costas do cenourinha com uma vara de pescar e coloca uma cenoura a sua frente. E assim, como um coelhinho, ele vai andando toda a vida atrás da cenoura. O engomado cenourinha também pode ser comparado a uma cabaça: **Faz barulho mas é oco por dentro**. 
+* **Engomado cenourinha**: O engomado cenourinha só precisa de um incentivo para ficar feliz e fazer o trabalho. O chefe monta nas costas do cenourinha com uma vara de pescar e coloca uma cenoura a sua frente. E assim, como um coelhinho, ele vai andando toda a vida atrás da cenoura. O engomado cenourinha também pode ser comparado a uma cabaça: **Faz barulho mas é oco por dentro**. 
 
 Isto é, o cenourinha adora mesclar palavras em inglês com português e usar termologias difíceis como forma de se mostrar intelecturalmente elevado perante os plebes. O problema é que na maior parte das vezes este tipo de engomado não faz a mínima ideia do que está falando. Seus argumentos costumam não haver consistência alguma. Basta um para questionar seus argumentos que este engomado começa ou a mudar de assunto, gaguejar ou a responder que de nada sabe. Mas não pense que isto é uma demonstração de humildade. Não caros leitores, isto é a demonstração que o poço sempre pode ser mais fundo do que a gente imagina. 
 
@@ -36,7 +42,7 @@ Isto é, o cenourinha adora mesclar palavras em inglês com português e usar te
   <img width="400" height="200" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/cenourinha.gif">
 </p>
 
-3. **Engomado mistico**: O engomado místico é baseado na mística do X-men. Este é o engomado mais dificil de entender e identificar. É o mais complexo de todos! Trata-se do engomado que carrega consigo todas as caracteríticas anteriores mas com uma pitada a mais de ousadia. Ele sempre estará mudando de atribuição, cargo e siglas. Este tipo de engomado hora é PO, hora é GP, hora é analista de sistemas, hora é CTO, PMO, COO, CFO, PMI, PMP, CEO, e no fim das contas, ninguém sabe realmente o que ele é e qual sua real atribuição, cargo, qual papel ele realmente desempenha. O engomado místico também é conhecido como engomado charada.
+* **Engomado mistico**: O engomado místico é baseado na mística do X-men. Este é o engomado mais dificil de entender e identificar. É o mais complexo de todos! Trata-se do engomado que carrega consigo todas as caracteríticas anteriores mas com uma pitada a mais de ousadia. Ele sempre estará mudando de atribuição, cargo e siglas. Este tipo de engomado hora é PO, hora é GP, hora é analista de sistemas, hora é CTO, PMO, COO, CFO, PMI, PMP, CEO, e no fim das contas, ninguém sabe realmente o que ele é e qual sua real atribuição, cargo, qual papel ele realmente desempenha. O engomado místico também é conhecido como engomado charada.
 
 <p align="center">
   <img width="250" height="250" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/mistico.jpg">
@@ -47,7 +53,7 @@ Isto é, o cenourinha adora mesclar palavras em inglês com português e usar te
 * **Desenvolvedor marreta (ou marreteiro)**: É aquele que não vê sentido nenhum nessa porra! O marreteiro sempre irá desconstruir tudo aquilo que a indústria fez até hoje. O marreteiro não quer saber de firula, não quer saber de métricas que mensuram o seu cargo. É papo reto! Se gostou tamo junto, se não, joga dentro do buraco:
 
 <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/marreta.png">
+  <img width="800" height="450" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/marreta.png">
 </p>
 
 
