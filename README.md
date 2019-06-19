@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="450" height="353" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/logo.png">
+  <img width="400" height="353" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/logo.png">
 </p>
 
 # Manifesto Marreta
