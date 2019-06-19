@@ -68,7 +68,7 @@ Um bom marreteiro nasceu com o Extreme GO Horse no sangue, é anárquico por nat
 
 
 <p align="center">
-  <img width="400" height="400" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/gohorse2.jpg">
+  <img width="500" height="300" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/gohorse2.jpg">
 </p>
 
 
