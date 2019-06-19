@@ -102,7 +102,7 @@ O manifesto ágil por muitos anos vem sendo prostituído. Esqueceram a sua essê
 Dave Thomas outro autor do manifesto ágil, fez uma palestra inteira explicando [o porque o manifesto Ágil já não faz mais sentido](https://www.youtube.com/watch?v=a-BOSpxYJ9M). Entregar resultado sem fazer sentido é como acreditar em numerologia. Isto é, só porque os números contam uma história que te agrada, não tornará isso uma ciência. Todas essas bobagens e métricas de produção são apenas um conjunto de coincidências que gera um suposto resultado de uma história que você quer ouvir.
 
 <p align="center">
-  <img width="500" height="200" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/programacao-agil-teoria-pratica.png">
+  <img width="700" height="200" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/programacao-agil-teoria-pratica.png">
 </p>
 
 Software por definição é uma abstração sem forma física e sem limites físicos. A mesma coisa vale para a literatura, a música, pintura, qualquer coisa de campo criativo e das idéias. Software não tem peso, não tem cor, não tem cheiro, não obedece nenhuma lei de física a não ser o tempo de execução determinado pelo clock da CPU e GPU's.
