@@ -112,5 +112,5 @@ E o principal, dois programadores diferentes tentando representar em código a m
 Métodos ágeis são na verdade uma tentativa de vender uma metodologia e processo de controle, uma tentativa de medir se todo mundo está seguindo as mesmas coisas para tentar embutir valor no tempo gasto em cada processo. Quer uma prova cabal disso? Leia o manifesto onde diz **Indivíduos e interações mais do que processos e ferramentas**. Trata-se do primeiro valor do manifesto ágil. E qual é a primeira coisa que os gestores pensam em fazer? Contratar uma consultoria externa com indivíduos que não fazem parte do seu time para implementar processos, ferramentas e mecanismos de controle.
 
 <p align="center">
-  <img width="500" height="200" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/controle.png">
+  <img width="300" height="320" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/controle.png">
 </p>
