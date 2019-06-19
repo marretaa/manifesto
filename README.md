@@ -101,8 +101,16 @@ O manifesto ágil por muitos anos vem sendo prostituído. Esqueceram a sua essê
 
 Dave Thomas outro autor do manifesto ágil, fez uma palestra inteira explicando [o porque o manifesto Ágil já não faz mais sentido](https://www.youtube.com/watch?v=a-BOSpxYJ9M). Entregar resultado sem fazer sentido é como acreditar em numerologia. Isto é, só porque os números contam uma história que te agrada, não tornará isso uma ciência. Todas essas bobagens e métricas de produção são apenas um conjunto de coincidências que gera um suposto resultado de uma história que você quer ouvir.
 
+<p align="center">
+  <img width="500" height="200" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/programacao-agil-teoria-pratica.png">
+</p>
+
 Software por definição é uma abstração sem forma física e sem limites físicos. A mesma coisa vale para a literatura, a música, pintura, qualquer coisa de campo criativo e das idéias. Software não tem peso, não tem cor, não tem cheiro, não obedece nenhuma lei de física a não ser o tempo de execução determinado pelo clock da CPU e GPU's.
 
 E o principal, dois programadores diferentes tentando representar em código a mesma especificação e mesma tarefa, vão chegar a códigos diferentes e gastando tempo muito diferentes um do outro. Ou seja, isso é diferente de uma engenharia do mundo real onde duas construtoras diferentes vão seguir a mesma especificação e construir e obter os mesmos resultados e com qualidades similares dadas as mesmas estruturas e condições. No campo do software, palavras, ideias, as diferenças são gritantes entre os melhores e os medíocres.
 
 Métodos ágeis são na verdade uma tentativa de vender uma metodologia e processo de controle, uma tentativa de medir se todo mundo está seguindo as mesmas coisas para tentar embutir valor no tempo gasto em cada processo. Quer uma prova cabal disso? Leia o manifesto onde diz **Indivíduos e interações mais do que processos e ferramentas**. Trata-se do primeiro valor do manifesto ágil. E qual é a primeira coisa que os gestores pensam em fazer? Contratar uma consultoria externa com indivíduos que não fazem parte do seu time para implementar processos, ferramentas e mecanismos de controle.
+
+<p align="center">
+  <img width="500" height="200" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/controle.png">
+</p>
