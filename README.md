@@ -56,11 +56,19 @@ Isto é, o cenourinha adora mesclar palavras em inglês com português e usar te
 </p>
 
 
-A relação de trabalho com o marreteiro é a mais simples possível! O marreteiro não cai em conversa fiada de desenvolvedor engomado. E tampouco é vislumbrado como um desenvolvedor cabaço. É um questionador nato! Mas não pense que o desenvolvedor marreteiro não tem sua metodologia de desenvolvimento. Um bom marreteiro nasceu com o Extreme GO Horse no sangue, é anárquico por natureza e por isso escolhe suas próprias metodologias e métricas de trabalho.
+A relação de trabalho com o marreteiro é a mais simples possível! O marreteiro não cai em conversa fiada de desenvolvedor engomado. E tampouco é vislumbrado como um desenvolvedor cabaço. É um questionador nato! Mas não pense que o desenvolvedor marreteiro não tem sua metodologia de desenvolvimento. O marreteiro apenas questiona todas elas.
 
 
 <p align="center">
   <img width="400" height="300" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/kanban.png">
+</p>
+
+
+Um bom marreteiro nasceu com o Extreme GO Horse no sangue, é anárquico por natureza e por isso escolhe suas próprias metodologias e métricas de trabalho. Ou seja, é pau no lombo o tempo todo mermão!
+
+
+<p align="center">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/gohorse2.jpg">
 </p>
 
 
