@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="500" height="353" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/logo.png">
+</p>
+
 # Manifesto Marreta
 
 O Manifesto marreta foi desenvolvido por pessoas que não veem sentido em metodologias sistemáticas e ritos que não funcionam no mundo real. Nós definimos três tipos de perfis que resumem bem o comportamento de profissionais que atuam no mundo das computarias. São eles:
@@ -80,6 +84,10 @@ No manifesto Ágil a principal meta é satisfazer clientes por meio do levantame
 ### 2. XGH com todo respeito.
 Nós do manifesto marreta reconhecemos que o **[Extreme GO HORSE](http://sou.gohorseprocess.com.br/extreme-go-horse-xgh/)** foi mal compreendido. Quem nasceu no XGH, automaticamente nasceu marreteiro!
 
+<p align="center">
+  <img width="250" height="250" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/gohorse.png">
+</p>
+
 ### 3. Ágil é o cacete
 O manifesto ágil por muitos anos vem sendo prostituído. Esqueceram a sua essência, sua simplicidade, e começaram a vender a ideia de que todas as instituições devem adotar o padrão ágil. Scrum por exemplo, foi fundado nos anos 80 e sequer mencionava o nome ágil. Muitos falam de Kanban mas em nada se parece com o Kanban original inventado na Toyota. A premissa e os fins são usados de maneiras completamente diferentes. [Bob Martin](https://techbeacon.com/app-dev-testing/uncle-bob-martin-agile-manifesto-15-years-later) um dos fundadores do manifesto ágil descreve muito bem essa situação. Para ele, o manifesto ágil começou com uma proposta e hoje se tornou irreconhecível.
 
@@ -90,5 +98,3 @@ Software por definição é uma abstração sem forma física e sem limites fís
 E o principal, dois programadores diferentes tentando representar em código a mesma especificação e mesma tarefa, vão chegar a códigos diferentes e gastando tempo muito diferentes um do outro. Ou seja, isso é diferente de uma engenharia do mundo real onde duas construtoras diferentes vão seguir a mesma especificação e construir e obter os mesmos resultados e com qualidades similares dadas as mesmas estruturas e condições. No campo do software, palavras, ideias, as diferenças são gritantes entre os melhores e os medíocres.
 
 Métodos ágeis são na verdade uma tentativa de vender uma metodologia e processo de controle, uma tentativa de medir se todo mundo está seguindo as mesmas coisas para tentar embutir valor no tempo gasto em cada processo. Quer uma prova cabal disso? Leia o manifesto onde diz **Indivíduos e interações mais do que processos e ferramentas**. Trata-se do primeiro valor do manifesto ágil. E qual é a primeira coisa que os gestores pensam em fazer? Contratar uma consultoria externa com indivíduos que não fazem parte do seu time para implementar processos, ferramentas e mecanismos de controle.
-
-
