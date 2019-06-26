@@ -96,6 +96,8 @@ Nós do manifesto marreta reconhecemos que o **[Extreme GO HORSE](http://sou.goh
   <img width="250" height="250" src="https://raw.githubusercontent.com/lobocode/manifesto/master/images/gohorse.png">
 </p>
 
+Estudos comprovam que GO Horse é mais barato: [http://sou.gohorseprocess.com.br/com-go-horse-e-mais-barato/](http://sou.gohorseprocess.com.br/com-go-horse-e-mais-barato/)
+
 ### 3. Ágil é o cacete
 O manifesto ágil por muitos anos vem sendo prostituído. Esqueceram a sua essência, sua simplicidade, e começaram a vender a ideia de que todas as instituições devem adotar o padrão ágil. Scrum por exemplo, foi fundado nos anos 80 e sequer mencionava o nome ágil. Muitos falam de Kanban mas em nada se parece com o Kanban original inventado na Toyota. A premissa e os fins são usados de maneiras completamente diferentes. [Bob Martin](https://techbeacon.com/app-dev-testing/uncle-bob-martin-agile-manifesto-15-years-later) um dos fundadores do manifesto ágil descreve muito bem essa situação. Para ele, o manifesto ágil começou com uma proposta e hoje se tornou irreconhecível.
 
